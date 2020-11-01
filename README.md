@@ -15,35 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-<table>
-	<tr>
-	</tr>
-	<tr>
-		<th>
-			<h2><code>𝚂𝚙𝚎𝚌𝚒𝚊𝚕</code>: 𝙸'𝚖 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝙷𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝!</h2>
-			𝙰𝚗𝚢𝚘𝚗𝚎 𝚠𝚑𝚘 𝚠𝚊𝚗𝚝𝚜 𝚝𝚘 𝚒𝚜 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚎! 𝙹𝚞𝚜𝚝 𝚜𝚒𝚐𝚗 𝚞𝚙 𝚊𝚝 <a href="https://hacktoberfest.digitalocean.com/">𝚑𝚝𝚝𝚙𝚜://𝚑𝚊𝚌𝚔𝚝𝚘𝚋𝚎𝚛𝚏𝚎𝚜𝚝.𝚍𝚒𝚐𝚒𝚝𝚊𝚕𝚘𝚌𝚎𝚊𝚗.𝚌𝚘𝚖/</a>.
-				<br>𝙱𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢, 𝚖𝚊𝚔𝚎 𝟺 𝙿𝚁𝚜 𝚝𝚘 𝙶𝚒𝚝𝙷𝚞𝚋 𝚛𝚎𝚙𝚘𝚜 𝚊𝚗𝚍 𝚐𝚎𝚝 𝚝𝚑𝚎𝚖 𝚖𝚎𝚛𝚐𝚎𝚍 𝚘𝚛 𝚝𝚊𝚐𝚐𝚎𝚍 <code>hacktoberfest-accepted</code> 𝚠𝚒𝚕𝚕 𝚐𝚎𝚝 𝚌𝚘𝚘𝚕&nbsp𝚜𝚠𝚊𝚐!
-		</th>
-	</tr>
-	<tr>
-		<td>
-				<b>𝙻𝚒𝚜𝚝 𝚘𝚏 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜 𝚙𝚊𝚛𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚗𝚐 𝚒𝚗 𝚝𝚑𝚒𝚜 𝚊𝚠𝚎𝚜𝚘𝚖𝚎 𝚎𝚟𝚎𝚗𝚝:<b>
-				<ul>
-					<li><a href="https://github.com/Raymo111/emoji">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚎𝚖𝚘𝚓𝚒</a></li>
-					<li><a href="https://github.com/Raymo111/drracket-customization">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚍𝚛𝚛𝚊𝚌𝚔𝚎𝚝-𝚌𝚞𝚜𝚝𝚘𝚖𝚒𝚣𝚊𝚝𝚒𝚘𝚗</a></li>
-					<li><a href="https://github.com/Raymo111/i3lock-color">𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛</a></li>
-				</ul>
-		</td>
-	</tr>
-</table>
--->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 𝚂𝚆𝙴 𝚊𝚝 [<img src="https://edgeprim.com/assets/images/EdgePrim.svg" height="30em" align="center" alt="EdgePrim" title="EdgePrim"/>](https://edgeprim.com)
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟻
-- 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 𝙲𝚑𝚒𝚎𝚏 𝙾𝚛𝚐𝚊𝚗𝚒𝚣𝚎𝚛 𝚊𝚝 [<img src="https://youthhax.com/images/yh.png" height="30em" align="center" alt="YouthHax" title="YouthHax"/>](https://edgeprim.com)
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚋𝚎𝚕𝚘𝚠 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
+- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 CTO 𝚊𝚝 Gapz.xyz
+- 💼 Maker Engineer&Maker 𝚊𝚝 DocareProtect [<img src="https://youthhax.com/images/yh.png" height="30em" align="center" alt="YouthHax" title="YouthHax"/>](https://edgeprim.com)
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Technology Computer 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 Don Muang Technical College, End Year 2020
+- 💻 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 Data analyst 𝚊𝚝 [<img src="https://youthhax.com/images/yh.png" height="30em" align="center" alt="YouthHax" title="YouthHax"/>](https://edgeprim.com)
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚋𝚎𝚕𝚘𝚠 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [Github](https://github.com/apiwat59)
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
@@ -52,20 +30,6 @@ Here are some ideas to get you started:
 - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
-
-## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
-2. 🎉 Merged PR [#11](https://github.com/Raymo111/cs135-drtools/pull/11) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-3. 🗣 Commented on [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
-4. ❗️ Opened issue [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
-5. 🗣 Commented on [#11](https://github.com/Raymo111/cs135-drtools/issues/11) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-<!--END_SECTION:activity-->
-
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
-<a href="https://twitter.com/Raym0111" target="_blank">
-	<img src="https://github.com/Raymo111/Raymo111/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
-</a>
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
