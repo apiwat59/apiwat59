@@ -1,7 +1,6 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|httpsadsfadsfli)" title="👋 Hi there! I'm (Rayasdfadsfd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=apiwat59.apiwat59)
-<!--
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
