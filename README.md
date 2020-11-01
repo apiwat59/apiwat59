@@ -1,4 +1,4 @@
-[<img src="https://github.com/apiwat59/apiwat59/blob/master/intro1.gif" align="center" alt="👋 Hi there! I'm (Aphiwat)" title="👋 Hi there! I'm (Gapz.xyz)|Gapz.xyz)"/>](https://gapz.xyz/)
+[<img src="https://github.com/apiwat59/apiwat59/blob/master/intro1.gif"  alt="👋 Hi there! I'm (Aphiwat)" align="center" title="👋 Hi there! I'm (Gapz.xyz)|Gapz.xyz)"/>](https://gapz.xyz/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=apiwat59.apiwat59)
 
