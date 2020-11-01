@@ -23,5 +23,3 @@
 [<img src="https://github.com/apiwat59/apiwat59/blob/master/socials/facebook.png" height="40em" align="center" alt="Follow Aphiwat on Facebook" title="Follow Aphiwat on Facebook"/>](https://www.facebook.com/Aphiwat.Paenyoi)
 [<img src="https://github.com/apiwat59/apiwat59/blob/master/socials/line.png" height="40em" align="center" alt="Aphiwat on Line" title="Follow Aphiwat on Line"/>](https://line.me/ti/p/ZUD36S-LkW)
 [<img src="https://github.com/apiwat59/apiwat59/blob/master/socials/Phone.png" height="40em" align="center" alt="Call Aphiwat on Phone" title="Call Aphiwat on Phone"/>](http://phone.gapz.xyz/)
-
- 
